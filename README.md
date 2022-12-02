@@ -15,7 +15,7 @@ This is the layout for a portfolio website.
 ### Preview
 
 
-![](multipage_AdobeExpress.gif)
+![](multipage.gif)
 
 
 
